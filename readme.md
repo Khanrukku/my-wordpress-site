@@ -1,4 +1,4 @@
-WordPress Site - [Your Project Name]
+WordPress Site - law solution LLP
 
 Overview
 This repository contains the source code for the WordPress site `law-solution-llp`. It includes the WordPress core files along with any custom themes, plugins, and configurations necessary to run the site locally and in a production environment.
@@ -52,5 +52,6 @@ Plugins: [List of Plugins]
     -simple-schedule-appointments
 Usage
 Once you have followed the setup steps above, you can begin making changes to the site locally, installing new plugins, creating content, and testing features before pushing changes to production.
+![WhatsApp Image 2024-12-16 at 8 56 58 PM](https://github.com/user-attachments/assets/f3c92551-6651-44f6-8ba5-35fe0523be3a)
 
 
